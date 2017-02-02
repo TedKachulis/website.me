@@ -9,7 +9,7 @@ date:   2017-01-23 12:12:14
 
 ### Featured Photos
 
-
+![alt text](https://github.com/TedKachulis/website.me/blob/master/img/IMG_1337.JPG" ")
 
 
 ### Check out my Instagram feed:
