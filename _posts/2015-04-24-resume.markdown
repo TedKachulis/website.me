@@ -1,0 +1,93 @@
+---
+title:  "Résumé"
+subtitle: "Experience - Education - Profession"
+author: "T. Kachulis"
+avatar: "img/authors/wferr.PNG"
+image: "img/c.jpg"
+date:   2017-01-23 12:12:13
+---
+
+# Theodore Kachulis #
+
+______________________________________________________________________________________________________________________________
+
+* teddykachulis@gmail.com
+* For more personal contact information please email.
+
+______________________________________________________________________________________________________________________________
+
+# WORK HISTORY #
+
+### May 2015 - Present         Junior Programs Officer, CRA ###
+
+
+<body>Through FSWEP student placement program, I have worked for the Canadian Revenue Agency in the Business Returns Directorate (ABSB) for almost two years. Part of this time was full time employment, and part was lower hours while also enrolled in classes.
+<br><br>
+Relevant experiences and duties from this employment include having provided system support for employees across Canada, the development of procedures and manuals for use with our systems, reporting information, and web information management (internal Wiki site).<br><br></body>
+
+______________________________________________________________________________________
+
+<body><br><i>Only recent/relevant work experience listed - enquire for more information</i><br><br></body>
+
+______________________________________________________________________________________
+
+# EDUCATION #
+
+### Sept 2014 - Present         B.C.s. Major at Carleton University ###
+
+<body> Currently in 3rd Year standing, studying computer science (major) 
+and business commerce (minor) at Carleton University as a full time 
+student September through April.
+<br><br>
+My degree is a Bachelor of Computer Science with a minor in business. 
+My personal interests from this degree include mobile applications, 
+robotics research/development, and entrepreneurial studies. 
+<br><br>
+<b>Notable Projects</b></body>
+
+* Math learning application developed for Blackberry alongside clients (2014)
+* Campus navigation application (NavU) designed and implemented in Java for Android with a small team of 4 for a 3rd year software engineering course (2016)
+* Analysis of Pat Morin's experimental open data structures (2016)                              
+* Several years experience in robotics labs (2014-2015)
+
+______________________________________________________________________________________
+
+
+# SKILLS & MEMBERSHIPS #
+
+### Programming & Tech Experience ###
+
+ * 3rd Year Computer Science Student at Carleton University
+ * Web development and management experience in several team and work environments
+ * Extensive experience in many programming languages & software/operating system development environments
+ * Experience using software such as: Dreamweaver CC, MINITAB Statistical Analysis, Excel, etc.
+
+### Finance Management and Business Education Experience ###
+
+* Completing a business minor alongside my BCS major at Carleton University – please enquire for a list of relevant courses and/or their transferable skills
+* Set up and ran a small eCommerce business venture in 2016 with members from an entrepreneurship course taken in second year university
+* Experience analysing and reporting on trends from raw data (CRA)
+* Bookkeeping and corporate financial analysis experience
+    
+### Language ###
+
+<body>First language is English. French Immersion schooling from ages 4-18.</body>
+
+### Memberships, Licenses, & Other Skills ###
+
+* Knowledge of kinesiology, resistance training programming, nutrition & supplementation
+* Kanata Minor Hockey Association Alumni with on-ice instructor experience
+* Canadian Firearms Acquisition, Owners, and Operators License (Several courses completed)
+* Member of future Carleton University Phi Delta Theta organization chapter, currently developing a colony.
+
+
+
+
+
+
+
+
+
+
+
+

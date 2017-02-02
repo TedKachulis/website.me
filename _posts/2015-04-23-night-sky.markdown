@@ -1,0 +1,12 @@
+---
+title:  "Fitness"
+subtitle: "Lifting - Building - Supplements"
+author: "T. Kachulis"
+avatar: "img/authors/wferr.PNG"
+image: "img/fitnessTile.jpg"
+date:   2017-01-23 12:12:13
+---
+
+### Empty for now. 
+
+Will be keeping a fitness journal talking about resistance training methods, kinesiology, nutrition, and supplementation for overall health, strength, and muscle growth.
