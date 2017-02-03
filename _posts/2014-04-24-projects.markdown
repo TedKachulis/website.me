@@ -6,3 +6,5 @@ avatar: "img/authors/wferr.PNG"
 image: "img/projectTile.PNG"
 date:   2017-01-23 12:12:14
 ---
+
+Projects
