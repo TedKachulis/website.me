@@ -29,4 +29,4 @@ In the demo code of our application found online above, there are limited buildi
 
 [![https://gyazo.com/5847187a195a4e41102743b4ac9df95e](https://i.gyazo.com/thumb/200/_a2f79fb614e1c53dd1a162fd6c0dc102-png.jpg)](https://gyazo.com/5847187a195a4e41102743b4ac9df95e)
 [![https://gyazo.com/211485cce3e894241431a0a92b60fd19](https://i.gyazo.com/thumb/200/_fd973845f636de1d151f0aeabb201dd5-png.jpg)](https://gyazo.com/211485cce3e894241431a0a92b60fd19)
-[![https://gyazo.com/419513ae9c40ea4f9a14732562f91345](https://i.gyazo.com/thumb/200/_21edf75825ec1d6f716a31bfa6ed2fd1-png.jpg)](https://gyazo.com/419513ae9c40ea4f9a14732562f91345)
+[![https://gyazo.com/724101821d8ba8a60ecb09d1b6f8e886](https://i.gyazo.com/thumb/200/_800a0784d9f34ba38606409d50d3d15c-png.jpg)](https://gyazo.com/724101821d8ba8a60ecb09d1b6f8e886)
