@@ -11,7 +11,7 @@ date:   2017-01-23 12:12:14
 <body>This project is an offline application for android based systems that helps students navigate their way through confusing university campuses. The app provides two dimensional floor plans of buildings at Carleton University along with features such as navigational mapping, search functionality, personalised class schedules, and a notification system. </body>
 
 * Project Pitch: <a href="https://github.com/TedKachulis/Files/blob/master/COMP3004-d1_NavU.pdf"><ins>Click here to see the project concept pitch</ins></a>
-* Architecture Design: <a href="https://github.com/TedKachulis/Files/blob/master/comp3004-d3_NavU%20(1).pdf"><ins>Click here to see the project architecture design analysis</ins></a>
+* Architecture Design: <a href="https://github.com/TedKachulis/Files/blob/master/comp3004-d3_NavU%20(1).pdf"><ins>Click here to see the project architecture design</ins></a>
 * Project Repository: <a href="https://github.com/TheBearCode/NavU"><ins>Click here to see all project files</ins></a>
 
 <body>
