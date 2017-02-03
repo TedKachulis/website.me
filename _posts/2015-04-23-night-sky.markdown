@@ -7,7 +7,7 @@ image: "img/IMG_1465.png"
 date:   2017-01-23 12:12:13
 ---
 
-### School
+**School**
 
 I'm a third year student majoring in Computer Science at Carleton University. I am also taking a minor in Business. I use my studies in my projects and work, with special interest in innovative software design of business tools and mobile applications. Below is a list of courses I have taken and received credits for since starting at Carleton in 2014:
  
