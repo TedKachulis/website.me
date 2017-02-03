@@ -28,6 +28,7 @@ In the demo code of our application found online above, there are limited buildi
 * Project Repository: <a href="https://github.com/TedKachulis/COMP3203-Final-Project"><ins>Click here to see all project files</ins></a>
 
 [![https://gyazo.com/4cd53f18bcef7f07c77130d7b00eb275](https://i.gyazo.com/thumb/200/_2c54a334c93edccbc37c7ab40d7e29b1-png.jpg)](https://gyazo.com/4cd53f18bcef7f07c77130d7b00eb275)
+[![https://gyazo.com/74533b082b874249d068ed5bf3ac628b](https://i.gyazo.com/74533b082b874249d068ed5bf3ac628b.png)](https://gyazo.com/74533b082b874249d068ed5bf3ac628b)
 [![https://gyazo.com/4cd53f18bcef7f07c77130d7b00eb275](https://i.gyazo.com/thumb/200/_2c54a334c93edccbc37c7ab40d7e29b1-png.jpg)](https://gyazo.com/4cd53f18bcef7f07c77130d7b00eb275)
 [![https://gyazo.com/4cd53f18bcef7f07c77130d7b00eb275](https://i.gyazo.com/thumb/200/_2c54a334c93edccbc37c7ab40d7e29b1-png.jpg)](https://gyazo.com/4cd53f18bcef7f07c77130d7b00eb275)
 
