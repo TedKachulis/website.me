@@ -3,7 +3,7 @@ title:  "School"
 subtitle: "Carleton U. - Education - Courses"
 author: "T. Kachulis"
 avatar: "img/authors/wferr.PNG"
-image: "carleton-university-fieldhouse2.jpg"
+image: "img/carleton-university-fieldhouse2.jpg"
 date:   2017-01-23 12:12:13
 ---
 
