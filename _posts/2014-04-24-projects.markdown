@@ -27,4 +27,4 @@ In the demo code of our application found online above, there are limited buildi
 * Analytic Report: <a href="https://github.com/TedKachulis/COMP3203-Final-Project/blob/master/COMP3203_FINAL_TK_MS.pdf"><ins>Click here to see our report</ins></a>
 * Project Repository: <a href="https://github.com/TedKachulis/COMP3203-Final-Project"><ins>Click here to see all project files</ins></a>
 
-<img src="network1.PNG" alt="Networking App" style="width:528px;height:389px;">
+<img src="network1.PNG" alt="Networking Application" style="width:528px;height:389px;">
