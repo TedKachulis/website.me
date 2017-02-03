@@ -1,6 +1,6 @@
 ---
-title:  "About Me"
-subtitle: "Fitness - Education - Hobbies"
+title:  "School"
+subtitle: "Carleton U. - Education - Courses"
 author: "T. Kachulis"
 avatar: "img/authors/wferr.PNG"
 image: "img/IMG_1465.png"
