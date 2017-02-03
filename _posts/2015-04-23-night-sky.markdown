@@ -34,16 +34,16 @@ Taken Computer Science Courses:
 
 Taken Business Courses:
 
-* BUSI 1003: Financial Accounting I
 * BUSI 2204: Marketing
 * BUSI 2503: Corporate Financing I
 * BUSI 2121: Organizational Behavior
 * BUSI 2800: Entrepreneurial Studies
+* BUSI 1003: Financial Accounting I
 
 Taken Math & Stats Courses:
 
+* STAT 2507: Statistics and Probability I
 * MATH 1104: Linear Algebra I
 * MATH 1007: Calculus I
-* STAT 2507: Statistics and Probability I
 
 *Taken several history, classics, and cognitive science courses that are not listed above.
