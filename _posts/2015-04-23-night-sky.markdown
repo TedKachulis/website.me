@@ -7,5 +7,43 @@ image: "img/IMG_1465.png"
 date:   2017-01-23 12:12:13
 ---
 
-### About Me 
+### School
 
+I'm a third year student majoring in Computer Science at Carleton University. I am also taking a minor in Business. I use my studies in my projects and work, with special interest in innovative software design of business tools and mobile applications. Below is a list of courses I have taken and received credits for since starting at Carleton in 2014:
+ 
+Current COMP Courses:
+ 
+* COMP 3005: Database Management Systems
+* COMP 3008: Human Computer Interaction
+* COMP 3007: Programming Paradimes
+
+Taken Computer Science Courses:
+ 
+* COMP 3203: Principles of Computer Networks
+* COMP 3004: Object Oriented Software Engineering
+* COMP 2404: Introduction to Software Engineering
+* COMP 2401: Systems Programming 
+* COMP 2402: Abstract Data Types and Algorithms
+* COMP 2406: Fundamentals of Web Applications
+* COMP 2804: Discrete Structures Mathmatics II
+* COMP 2807: Robotics
+* COMP 1807: Introduction to Robotics
+* COMP 1805: Discrete Structures Mathmatics I
+* COMP 1406: Introduction to Computer Science II
+* COMP 1405: Introduction to Computer Science I
+
+Taken Business Courses:
+
+* BUSI 1003: Financial Accounting I
+* BUSI 2204: Marketing
+* BUSI 2503: Corporate Financing I
+* BUSI 2121: Organizational Behavior
+* BUSI 2800: Entrepreneurial Studies
+
+Taken Math & Stats Courses:
+
+* MATH 1104: Linear Algebra I
+* MATH 1007: Calculus I
+* STAT 2507: Statistics and Probability I
+
+*Taken several history, classics, and cognitive science courses that are not listed above.
