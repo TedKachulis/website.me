@@ -15,6 +15,6 @@ date:   2017-01-23 12:12:14
 * Project Repository: <a href="https://github.com/TheBearCode/NavU"><ins>Click here to see all project files</ins></a>
 
 <body>
-In the demo code of our application found online <a href="https://github.com/TheBearCode/NavU"><ins>here</ins></a> , there are limited buildings mapped. This was just to demonstrate functionality for our course at school, COMP3004: Software Engineering Design. <br><br>
+In the demo code of our application found online above, there are limited buildings mapped. This was just to demonstrate functionality for our course at school, COMP3004: Software Engineering Design. <br><br>
 </body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjlBw7v1oaQ" frameborder="0" allowfullscreen></iframe>
