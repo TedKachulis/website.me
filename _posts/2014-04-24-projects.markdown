@@ -7,7 +7,7 @@ image: "img/projectTile.PNG"
 date:   2017-01-23 12:12:14
 ---
 
-### NavU (Mobile Application)
+### NavU Campus Navigation (Mobile Application)
 <body>This project is an offline application for android based systems that helps students navigate their way through confusing university campuses. The app provides two dimensional floor plans of buildings at Carleton University along with features such as navigational mapping, search functionality, personalised class schedules, and a notification system. </body>
 
 * Project Pitch: <a href="https://github.com/TedKachulis/Files/blob/master/COMP3004-d1_NavU.pdf"><ins>Click here to see the project concept pitch</ins></a>
