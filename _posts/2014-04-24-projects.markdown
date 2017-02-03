@@ -8,11 +8,8 @@ date:   2017-01-23 12:12:14
 ---
 
 NavU (Mobile Application)
-
 This project is an offline application for android based systems that helps students navigate their way through confusing university campuses. The app provides two dimensional floor plans of buildings at Carleton University along with features such as navigational mapping, search functionality, personalised class schedules, and a notification system.
 
 In the demo of our application found online [here](https://github.com/TheBearCode/NavU "NavU on Github"), there are limited buildings mapped. This was just to demonstrate functionality for our course at school, COMP3004: Software Engineering Design.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=qjlBw7v1oaQ">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjlBw7v1oaQ" frameborder="0" allowfullscreen></iframe>
