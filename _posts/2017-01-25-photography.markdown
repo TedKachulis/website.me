@@ -4,7 +4,7 @@ subtitle: "DSLR - Gallery - Nature - City - Gym"
 author: "T. Kachulis"
 avatar: "img/authors/wferr.PNG"
 image: "img/photoTile.jpg"
-date:   2017-01-23 12:12:14
+date:   2016-01-23 12:12:14
 ---
 
 <script src="//www.powr.io/powr.js" external-type="html"></script> 
