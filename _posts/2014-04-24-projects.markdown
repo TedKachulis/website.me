@@ -7,7 +7,7 @@ image: "img/projectTile.PNG"
 date:   2017-01-23 12:12:14
 ---
 
-### NavU Campus Navigation (Mobile Application)
+### NavU Campus Navigation (Mobile App - Android OS)
 <body>This project is an offline application for android based systems that helps students navigate their way through confusing university campuses. The app provides two dimensional floor plans of buildings at Carleton University along with features such as navigational mapping, search functionality, personalised class schedules, and a notification system. </body>
 
 * Project Pitch: <a href="https://github.com/TedKachulis/Files/blob/master/COMP3004-d1_NavU.pdf"><ins>Click here to see the project concept pitch</ins></a>
@@ -30,6 +30,18 @@ In the demo code of our application found online above, there are limited buildi
 [![https://gyazo.com/1fbef610b9b9c96986b078304759c29e](https://i.gyazo.com/thumb/200/_af5bf2c13e0c3480f8fbf4f43d87a47d-png.jpg)](https://gyazo.com/1fbef610b9b9c96986b078304759c29e)
 [![https://gyazo.com/211485cce3e894241431a0a92b60fd19](https://i.gyazo.com/thumb/200/_fd973845f636de1d151f0aeabb201dd5-png.jpg)](https://gyazo.com/211485cce3e894241431a0a92b60fd19)
 [![https://gyazo.com/724101821d8ba8a60ecb09d1b6f8e886](https://i.gyazo.com/thumb/200/_800a0784d9f34ba38606409d50d3d15c-png.jpg)](https://gyazo.com/724101821d8ba8a60ecb09d1b6f8e886)
+
+---------------------------------------------------------
+
+### Animal Kingdom Math Game (Mobile App - Blackberry OS)
+<body>This project was completed alongside the end users as clients. Over the course of 5 months, my friend Andrew Brannicki and I worked closely with children ages 8-10 to put together an educational app of their choice for use with the Blackberry tablets they had in their classroom. This was developped in Adobe Actionscript, and involved a lot of graphics work as well. <br><br>The game has 6 different maps, each one training for different early math skills. The maps are unlocked in a progressive manner, after achieving enough stars from correctly and quickly answering the other maps' questions. The game also has many characters, and several difficulties - this helps keep things not only challenging, but aesthetic, and fun as well. <br><br>Not only can you check out the code at the below repository, but you can even demo the game. To demo the game, download the <strong>.swf</strong> file from the repository, and double click it.</body>
+
+* Download the .swf: <a href="https://github.com/TedKachulis/Animal-Kingdom-MATH-GAME-APP-FOR-BLACKBERRY-/blob/master/Animal%20Kingdom/AnimalKingdomv1.swf"><ins>Click here to download the demo!</ins></a>
+* Project Repository: <a href="https://github.com/TedKachulis/Animal-Kingdom-MATH-GAME-APP-FOR-BLACKBERRY-"><ins>Click here to see all project files</ins></a>
+
+[![https://gyazo.com/bc082c2a61be7f0ab4af6e7a4c01a773](https://i.gyazo.com/thumb/200/_ecc6d3b16ca87614637ca4d865b503b4-png.jpg)](https://gyazo.com/bc082c2a61be7f0ab4af6e7a4c01a773)
+[![https://gyazo.com/69febcdee73f83965a8f4bc8cfe4d96f](https://i.gyazo.com/thumb/200/_78f91a7b0b4170628fe07ecaa9b4a7f8-png.jpg)](https://gyazo.com/69febcdee73f83965a8f4bc8cfe4d96f)
+[![https://gyazo.com/14d0ef46a7f4c1a78d0c0df316e0e2d0](https://i.gyazo.com/thumb/200/_395a3a8de793b390c6db17c6817a391d-png.jpg)](https://gyazo.com/14d0ef46a7f4c1a78d0c0df316e0e2d0)
 
 ---------------------------------------------------------
 
